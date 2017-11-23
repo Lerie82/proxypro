@@ -1,4 +1,4 @@
-#Proxy Pro
+# Proxy Pro
 The Proxy Pro pugin is to help get more proxy servers out there and available to the public.
 
 ## Proxy Search
